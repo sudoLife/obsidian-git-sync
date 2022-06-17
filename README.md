@@ -29,7 +29,7 @@ The convenient way is to run the following script (replace `<placeholders>`  wit
 
 ```bash
 #!/usr/bin/env bash
-ZK_PATH="/home/sudolife/Documents/Obsidian/me"
+ZK_PATH="<full path to your obsidian vault folder>"
 
 printf "Syncing %s...\n" $ZK_PATH
 
