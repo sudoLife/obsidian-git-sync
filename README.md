@@ -14,6 +14,9 @@ This manual supposes you know how to use git, are acquainted with a terminal and
 - your digital brain
 
 ## Initialization
+
+__BACKUP YOUR VAULT IN CASE YOU OR I MESS UP!__
+
 First, you have to initialize your repository. Open terminal, go to your Obsidian folder and run `git init`.
 You can add a `.gitignore` file to exclude some of your workspace files. 
 I prefer to keep them synchronized with the exception of `.obsidian/workspace`, because it's too annoying.
